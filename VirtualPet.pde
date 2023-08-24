@@ -4,8 +4,6 @@ void setup() {
 }
 
 void draw() {
-   System.out.println(mouseX + "," + mouseY);
-  
   fill(#D3B166);
 
   ellipse(460,360,150,80);
